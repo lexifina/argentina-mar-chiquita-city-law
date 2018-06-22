@@ -1,0 +1,11 @@
+Ordenanza Nº095/17
+Ordenanza Nº 095/17
+Mar Chiquita, 06/12/2017
+El Expte. Nº 718/ 2016, iniciado por la Secretaria de Gobierno en el cual tramitan las actuaciones correspondiente a “SITUACIÓN CONCESIÓN UTF AUTOCAMPING MAR CHIQUITA”; y
+Que por Convenio Nº 95 de fecha 24 de octubre de 2016 la Municipalidad de Mar Chiquita otorga concesión de uso, explotación y mantenimiento de la Unidad Turística Fiscal en cuestión a los Sres. Manuel González y José Iezzi, por el periodo desde el 24/10/2016 hasta 30/04/2017;
+Que a fs.24 y 25 obra nota presentada por los Sres. Gonzalez e Iezzi solicitando la extensión de la concesión por dos años;
+Que a fs. 29 la Directora de Turismo Lic. Flavia Laguné no presenta objeciones para la solicitud efectuada pero propone una serie de puntos a ser tenidos en cuenta por parte de los concesionarios, en pos de mantenimiento del lugar, para continuar mejorando el servicio y la comodidad de los visitantes.
+Que el Arq. Sergio Erice perteneciente a la Secretaria de Obras Públicas y Planeamiento Urbano consta informe (fs. 30-43) del cual denota el mantenimiento que ha sido llevado a cabo en el lugar, de las obras comprometidas para la próxima temporada, y de los artefactos instalados para mejorar el servicio de agua caliente. Asimismo, surge que se ha realizado una puesta en valor del camping.
+Que la Directora de Turismo, debido a la proximidad de la temporada estival, considera prudente extender el permiso por la temporada 2017/2018, reconsiderando la posibilidad de un llamado a licitación pública para garantizar un proceso transparente de asignación de las UTF;
+Que del dictamen de la Dra. Paula La Bella (fs. 45-46) surge que los concesionarios han abonado el canon correspondiente en tiempo y forma, no encontrando objeciones para la renovación del convenio Nº 95, mediante el cual se le otorgó el Uso, Explotación y Mantenimiento de la Unidad Turística Fiscal – AUTOCAMPING MAR CHIQUITA – por la temporada 2016/2017 ampliando el plazo por la temporada 2017/2018, reconsiderado luego de vencido el mismo pasada Semana Santa, el llamado a una licitación pública por el plazo de 5 años otorgándole el derecho de preferencia a los Sres. Iezzi- Gonzalez en tanto cumplan con todos los compromisos asumidos;
+ORDENANZA
