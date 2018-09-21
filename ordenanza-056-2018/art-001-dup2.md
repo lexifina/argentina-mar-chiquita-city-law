@@ -1,0 +1,1 @@
+ARTÍCULO 1º: La presente Ordenanza tiene por objeto establecer el marco legal para el desarrollo del turismo rural en el Partido de Mar Chiquita, a fin de posibilitar el acceso de todos los sectores sociales a la práctica del mismo, tendiendo a un uso creativo del tiempo libre y a la reafirmación de la identidad local.
