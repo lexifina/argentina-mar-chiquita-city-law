@@ -1,0 +1,6 @@
+Ordenanza Nº127/18
+Ordenanza Nº 127/18
+Mar Chiquita, 19/12/2018
+ORDENANZA
+PARTE GENERAL
+I.- SUJETOS PASIVOS
