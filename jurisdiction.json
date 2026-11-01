@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-mar-chiquita",
+  "code": "AR-B-MAR-CHIQUITA",
+  "name": "Mar Chiquita",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-mar-chiquita-city-law",
+  "build": "built: municipal ordinances (167 ordinances, 167 versions) from https://sibom.slyt.gba.gob.ar/cities/80",
+  "language": "es",
+  "sources": 1
+}
