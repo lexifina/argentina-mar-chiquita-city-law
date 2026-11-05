@@ -2338,6 +2338,132 @@
      "sha256": "b24a418f10f9704a5649e013687a7df4416ad9155b625d261eac110405bdb5a7"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-086-2018-1257157",
+   "short": "Ordenanza 086/2018",
+   "title": "Ordenanza 086/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1477/contents/1257157",
+   "versions": [
+    {
+     "from": "2018-11-25",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1477/contents/1257157",
+     "sha256": "38ad823fe4d73e96fcb143bf9c523d37dd990f76d960f9fc82c3a2c062892e07"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-088-2018-1268211",
+   "short": "Ordenanza 088/2018",
+   "title": "Ordenanza 088/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268211",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268211",
+     "sha256": "e3c7d9c3b6e98580c57629d6e82c3cef6843e61889e98375150fb17a7e2d8f92"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-089-2018-1268213",
+   "short": "Ordenanza 089/2018",
+   "title": "Ordenanza 089/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268213",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268213",
+     "sha256": "238577808db2393b36f752a5f49d19797c82c5c4a2f4bb720b8ff2d5dda8b367"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-090-2018-1268217",
+   "short": "Ordenanza 090/2018",
+   "title": "Ordenanza 090/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268217",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268217",
+     "sha256": "619fd3ff8e7ed682df0937a3d1e509ff5a01fc5b4972939fb8aa047d61df04f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-091-2018-1268224",
+   "short": "Ordenanza 091/2018",
+   "title": "Ordenanza 091/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268224",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268224",
+     "sha256": "bff16006c7a61103d101b7c9d3e41f0cb11a500409179f835a29f2e21e6dff77"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-092-2018-1268226",
+   "short": "Ordenanza 092/2018",
+   "title": "Ordenanza 092/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268226",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268226",
+     "sha256": "a7f76e86ea53ec5276ee392a7f6a33a7a0267fa2adfa516df4c0a45d9fde37e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-093-2018-1268229",
+   "short": "Ordenanza 093/2018",
+   "title": "Ordenanza 093/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268229",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268229",
+     "sha256": "76e9a8ec64f05225b235407f8f0bd475742a5977f9d896c404a0e01a05baf928"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-094-2018-1268230",
+   "short": "Ordenanza 094/2018",
+   "title": "Ordenanza 094/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268230",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268230",
+     "sha256": "46207dc692e634a287615fbaca1ba8fc20b50f754d9ad002f2282a7dd003f69f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-095-2018-1268232",
+   "short": "Ordenanza 095/2018",
+   "title": "Ordenanza 095/2018",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268232",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268232",
+     "sha256": "33d2573ae54971386b01168bc53170370675c50d3ee500c20cde47cbafb2a7ad"
+    }
+   ]
   }
  ]
 }

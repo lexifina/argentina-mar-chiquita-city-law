@@ -7,6 +7,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Mar Chiquita | <https://sibom.slyt.gba.gob.ar/cities/80> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Boletín Oficial Municipal de Mar Chiquita (SIBOM) | <https://sibom.slyt.gba.gob.ar/cities/80> | 2026-11-05 | Official municipal ordinances, reproduced with attribution. The source states no restriction on reuse. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -181,20 +182,29 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-069-2019` | Ordenanza 069/2019: 1º AUTORIZASE, por excepción a la Sra. María Dolores Abril Pozo a construir conforme a los requisitos que establezca la Secretaria de Obras Publicas y Planeamiento Urbano en el Inmueble denominado catastralmente como: Ci | 1 | 2019-12-19 to 2019-12-19 |
 | `ordenanza-070-2019` | Ordenanza 070/2019: un plazo especial de ciento ochenta (180) días corridos a contar desde la promulgación de la presente ordenanza, para la presentación de Propietarios acreditando titularidad de dominio y Profesionales responsables de con | 1 | 2019-12-19 to 2019-12-19 |
 | `ordenanza-071-2019` | Ordenanza 071/2019: la Cesión de Superficie efectuada por el Sr. ORELLANA Facundo y otros del Espacio Verde Libre y Público que surge del plano 66 – 77 – 2015, confeccionado por el Agrimensor Carbajo Mario Cesar aprobado por la Dirección de | 1 | 2019-12-19 to 2019-12-19 |
+| `ordenanza-086-2018-1257157` | Ordenanza 086/2018 | 1 | 2018-11-25 to 2018-11-25 |
+| `ordenanza-088-2018-1268211` | Ordenanza 088/2018 | 1 | 2018-12-26 to 2018-12-26 |
+| `ordenanza-089-2018-1268213` | Ordenanza 089/2018 | 1 | 2018-12-26 to 2018-12-26 |
+| `ordenanza-090-2018-1268217` | Ordenanza 090/2018 | 1 | 2018-12-26 to 2018-12-26 |
+| `ordenanza-091-2018-1268224` | Ordenanza 091/2018 | 1 | 2018-12-26 to 2018-12-26 |
+| `ordenanza-092-2018-1268226` | Ordenanza 092/2018 | 1 | 2018-12-26 to 2018-12-26 |
+| `ordenanza-093-2018-1268229` | Ordenanza 093/2018 | 1 | 2018-12-26 to 2018-12-26 |
+| `ordenanza-094-2018-1268230` | Ordenanza 094/2018 | 1 | 2018-12-26 to 2018-12-26 |
+| `ordenanza-095-2018-1268232` | Ordenanza 095/2018 | 1 | 2018-12-26 to 2018-12-26 |
 
-The build made 167 commits:
+The build made 176 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 167 | first version of an act |
+| 176 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 167 laws in the record.
-- 334 tags.
+- 176 laws in the record.
+- 352 tags.
 
 ## Dates
 
@@ -206,13 +216,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `490120784d5616a70c383ee70f297e37beadd07df35ab1ca31ec53357542b613` (1260919 bytes).
+- Corpus: sha256 `406ac2038326864977b90a30feace2809edafeb5a56654d3e4a440e46cf28817` (1291642 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-167 versions of 167 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -223,6 +233,9 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- Nine different ordinances previously conflated by number and publication year are included as separate as-published texts. Existing historical folder identifiers are retained; new folders include the official content identifier to distinguish the source records.
+- Dates use the official bulletin publication date plus nine days under the existing default rule (Código Civil y Comercial, arts. 5 and 6); these nine texts contain no commencement clause overriding it.
+- Images: these nine official text columns contain zero images; source images 0, referenced 0, omitted 0.
 
 ## What AI did and did not do
 
@@ -234,3 +247,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- GPT-6 identified source-record collisions and wrote parsing and verification code. No model authored or corrected legal text.

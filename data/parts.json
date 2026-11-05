@@ -186,6 +186,20 @@
     "ordenanza-071-2019"
    ],
    "sha256": "cdacbc52603a8314657ff3b3da417139d4431b6ecd851b85e0fd921d147eeee6"
+  },
+  "90-q266-missing-identities.json": {
+   "acts": [
+    "ordenanza-086-2018-1257157",
+    "ordenanza-088-2018-1268211",
+    "ordenanza-089-2018-1268213",
+    "ordenanza-090-2018-1268217",
+    "ordenanza-091-2018-1268224",
+    "ordenanza-092-2018-1268226",
+    "ordenanza-093-2018-1268229",
+    "ordenanza-094-2018-1268230",
+    "ordenanza-095-2018-1268232"
+   ],
+   "sha256": "80c344b3a4f93ddfeaa3175220d0bedd57a35f285cbd53c327eaeaba0f8801de"
   }
  },
  "schema": 1
