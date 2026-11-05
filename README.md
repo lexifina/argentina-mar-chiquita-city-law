@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-167 ordinances so far, in force from 13 June 2018 to 19 December 2019, each as published in the Boletín Oficial Municipal de Mar Chiquita, added in parts.
+176 ordinances so far, in force from 13 June 2018 to 19 December 2019, each as published in the Boletín Oficial Municipal de Mar Chiquita, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -180,6 +180,18 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-070-2019/` | Ordenanza 070/2019: un plazo especial de ciento ochenta (180) días corridos a contar desde la promulgación de la presente ordenanza, para la presentación de Pro… | in force 19 December 2019 |
 | `ordenanza-071-2019/` | Ordenanza 071/2019: la Cesión de Superficie efectuada por el Sr. ORELLANA Facundo y otros del Espacio Verde Libre y Público que surge del plano 66 – 77 – 2015, … | in force 19 December 2019 |
 
+| `ordenanza-086-2018-1257157/` | Ordenanza 086/2018 (official content 1257157; dated 2018-09-26) | in force 2018-11-25 |
+| `ordenanza-088-2018-1268211/` | Ordenanza 088/2018 (official content 1268211; dated 2018-10-10) | in force 2018-12-26 |
+| `ordenanza-089-2018-1268213/` | Ordenanza 089/2018 (official content 1268213; dated 2018-10-10) | in force 2018-12-26 |
+| `ordenanza-090-2018-1268217/` | Ordenanza 090/2018 (official content 1268217; dated 2018-10-10) | in force 2018-12-26 |
+| `ordenanza-091-2018-1268224/` | Ordenanza 091/2018 (official content 1268224; dated 2018-10-10) | in force 2018-12-26 |
+| `ordenanza-092-2018-1268226/` | Ordenanza 092/2018 (official content 1268226; dated 2018-10-10) | in force 2018-12-26 |
+| `ordenanza-093-2018-1268229/` | Ordenanza 093/2018 (official content 1268229; dated 2018-10-10) | in force 2018-12-26 |
+| `ordenanza-094-2018-1268230/` | Ordenanza 094/2018 (official content 1268230; dated 2018-10-10) | in force 2018-12-26 |
+| `ordenanza-095-2018-1268232/` | Ordenanza 095/2018 (official content 1268232; dated 2018-10-10) | in force 2018-12-26 |
+
+The additional rows distinguish official records whose texts differ from the earlier entries with matching numbers. Their folder names include the official content identifier; the two source records numbered 086/18 also have different dates and subjects.
+
 ## Source
 
 Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Mar Chiquita, <https://sibom.slyt.gba.gob.ar/cities/80>. SIBOM is the platform on which each municipality of the Province of Buenos Aires makes its Boletín Oficial Municipal (Ley 14.491). For each bulletin it lists the ordinances it published; each ordinance has its own page with the text as published (HTML). The site states no terms restricting reuse.
@@ -206,18 +218,9 @@ This is not an official publication. The binding text is the one published in th
 
 ## Left out
 
-11 ordinances that SIBOM lists in the period covered are not included, because the Boletín Oficial Municipal de Mar Chiquita page gives no article text to read:
+The official page for Ordenanza 079/18 contains recitals but no operative articles, attachment or image, so it is not included. A second entry for Ordenanza 136/18 repeats the text already included in this record and is not added as a separate act.
 
 | Ordinance | Published | Why | Page |
 | --- | --- | --- | --- |
-| Ordenanza 079/18 | 16 November 2018 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/1477/contents/1255467> |
-| Ordenanza 086/18 | 16 November 2018 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1477/contents/1257157> |
-| Ordenanza 088/18 | 17 December 2018 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268211> |
-| Ordenanza 089/18 | 17 December 2018 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268213> |
-| Ordenanza 090/18 | 17 December 2018 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268217> |
-| Ordenanza 091/18 | 17 December 2018 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268224> |
-| Ordenanza 092/18 | 17 December 2018 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268226> |
-| Ordenanza 093/18 | 17 December 2018 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268229> |
-| Ordenanza 094/18 | 17 December 2018 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268230> |
-| Ordenanza 095/18 | 17 December 2018 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1615/contents/1268232> |
-| Ordenanza 136/18 | 11 March 2019 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/1935/contents/1304382> |
+| Ordenanza 079/18 | 16 November 2018 | no operative article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/1477/contents/1255467> |
+| Ordenanza 136/18 | 11 March 2019 | duplicate of an included source record | <https://sibom.slyt.gba.gob.ar/bulletins/1935/contents/1304382> |
